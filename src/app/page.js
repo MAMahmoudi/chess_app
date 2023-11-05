@@ -5,7 +5,7 @@ import "./globals.css";
 
 export default function Page() {
   return (
-    <div className="Main">
+    <div className="main">
       <LeftBar />
       <Board />
     </div>

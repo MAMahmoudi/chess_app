@@ -1,8 +1,8 @@
 .NavBar {
   height: 10vh;
-  width: calc(90vw - 95vh);
-  margin: 2.5vh 5vw 5vh 5vw;
+  width: 100%;
+  margin: 0 0 5vh 0;
   borgder: 1px solid black;
   border-radius: 5px;
-  background-color: #ffffff;
+  background-color: yellow;
 }

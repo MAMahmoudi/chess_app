@@ -1,6 +1,7 @@
 .Game_Monitor {
-  display: flex;
-  flex-direction: column;
-  height: 100px;
-  width: 100px;
+  height: 80vh;
+  width: 100%;
+  margin: 0;
+  border-radius: 5px;
+  background-color: red;
 }

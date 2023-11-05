@@ -2,11 +2,12 @@
   display: grid;
   grid-template-columns: repeat(8, 10vh);
   grid-template-rows: repeat(8, 10vh);
-  margin: 2.5vh 10vw 2.5vh 5vw;
+  left: 5vw;
+  margin: 2.5vh 5vw 2.5vh 5vw;
   padding: 0;
   height: 95vh;
   width: 95vh;
   border: 1px solid #000;
   border-radius: 5px;
-  background-color: #fff;
+  background-color: blue;
 }

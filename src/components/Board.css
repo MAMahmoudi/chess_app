@@ -1,12 +1,12 @@
 .Board {
   display: grid;
-  grid-template-columns: repeat(8, 10vh);
-  grid-template-rows: repeat(8, 10vh);
+  grid-template-columns: repeat(8, 1fr);
+  grid-template-rows: repeat(8, 1fr);
   left: 5vw;
-  margin: 2.5vh 5vw 2.5vh 5vw;
+  margin: 2.5vh 2.5vw 2.5vh 2.5vw;
   padding: 0;
-  height: 95vh;
-  width: 95vh;
+  height: 95vmin;
+  width: 95vmin;
   border: 1px solid #000;
   border-radius: 5px;
   background-color: blue;

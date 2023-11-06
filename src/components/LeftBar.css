@@ -1,5 +1,5 @@
 .LeftBar {
-  width: calc(90vw - 95vh);
+  width: min(25vmax, 90vw - 95vmin);
   height: 95vh;
-  margin: 2.5vh 2.5vh 2.5vh 2.5vh;
+  margin: 2.5vh 2.5vw 2.5vh 2.5vw;
 }
